@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="txt_view_String_Titulo">Calculadora</string>
+    <string name="txt_view_String_Resultado">Resultado</string>
+    <string name="txt_view_String_Suma">Suma</string>
+    <string name="txt_view_String_Resta">Resta</string>
+    <string name="txt_view_String_Multi">Multipli</string>
+    <string name="txt_view_String_Div">Division</string>
+</resources>
